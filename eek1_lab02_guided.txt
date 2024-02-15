@@ -1,0 +1,10 @@
+Erin Kelly
+
+I used the instructions and the internet to learn how to use the commands I needed to use to complete this lab. I struggled with understanding how to use commands and what I needed to write with each command to get it to work. 
+
+syntax on
+set ruler
+set autoindent
+set number
+set ignorecase
+color elflord
